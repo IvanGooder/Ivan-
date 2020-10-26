@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-26T21:47:50.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FaT17yUXZDpekOwnnIl1" version="13.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-26T21:51:44.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="4DMDggigUdG8UFQfUbDe" version="13.8.3" type="github">
   <diagram id="4DrFsbVTnnbgCBLrT30_" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,10 +131,21 @@
           <mxGeometry x="463" y="332" width="84" height="28" as="geometry" />
         </mxCell>
         <mxCell id="laEGhpf13nhl8fzN_sp4-69" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.chair;rotation=90;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="455" y="441" width="52" height="42.25" as="geometry" />
+          <mxGeometry x="438" y="427.75" width="52" height="42.25" as="geometry" />
         </mxCell>
         <mxCell id="laEGhpf13nhl8fzN_sp4-70" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.security_camera;" vertex="1" parent="1">
           <mxGeometry x="390" y="397.5" width="42" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="laEGhpf13nhl8fzN_sp4-71" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.flat_tv;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="401" y="485" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="laEGhpf13nhl8fzN_sp4-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.138;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="laEGhpf13nhl8fzN_sp4-73" target="laEGhpf13nhl8fzN_sp4-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="532" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laEGhpf13nhl8fzN_sp4-73" value="KotHub.pl" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="412" width="63" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
