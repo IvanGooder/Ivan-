@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T08:06:41.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="GqOjw57jGbdPjdBPyMcW" type="github"><diagram id="G7-u3p78Mmx7hTqBBLLs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-07T08:50:53.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="7j9HuSCZzJoxE8n5Te4_" version="14.4.9" type="github">
+  <diagram id="G7-u3p78Mmx7hTqBBLLs" name="Страница 1">
+    <mxGraphModel dx="460" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bAsGvpuVmAmtaglg-3Rn-1" value="&lt;font style=&quot;font-size: 42px&quot;&gt;Реакторы&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bAsGvpuVmAmtaglg-3Rn-2" value="81 x 5 = 405 (cтержней)&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#99ff99&quot;&gt;Стоимость 1 рекатора:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;золото 44&lt;br&gt;редстоун 22&lt;br&gt;алмаз 27&lt;br&gt;железо 615&lt;br&gt;олово 196&lt;br&gt;медь 597&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Стоимость 81 реактора:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;золото &lt;b&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#00ffff&quot;&gt;3564&lt;/font&gt;&lt;/b&gt;&lt;br&gt;редстоун &lt;font style=&quot;font-size: 13px&quot; color=&quot;#00ffff&quot;&gt;&lt;b&gt;1&lt;font style=&quot;font-size: 13px&quot;&gt;4742&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;алмаз &lt;b&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#00ffff&quot;&gt;2187&lt;/font&gt;&lt;/b&gt;&lt;br&gt;железо &lt;b&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#00ffff&quot;&gt;56376&lt;/font&gt;&lt;/b&gt;&lt;br&gt;олово &lt;b&gt;&lt;font style=&quot;font-size: 13px&quot; color=&quot;#00ffff&quot;&gt;15876&lt;/font&gt;&lt;/b&gt;&lt;br&gt;медь &lt;b style=&quot;color: rgb(0 , 255 , 255) ; font-size: 13px&quot;&gt;48357&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ffffff&quot;&gt;свинец &lt;/font&gt;&lt;b style=&quot;color: rgb(0 , 255 , 255) ; font-size: 13px&quot;&gt;5184&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="200" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="bAsGvpuVmAmtaglg-3Rn-5" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;11 компонентных теплообменников&lt;br&gt;4 золота x 11 = 44&lt;br&gt;7 меди x 11 = 77&lt;br&gt;3 олова x 11 = 33&lt;br&gt;1 железо x 11 = 11&lt;br&gt;2 редстоуна x 11 = 22&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bAsGvpuVmAmtaglg-3Rn-6" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;11 компонентных теплоотвод&lt;br&gt;железо 9,5 x 11 = 104,5&lt;br&gt;олово 5 x 11 = 55&lt;br&gt;медь 8 x 11 = 88&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bAsGvpuVmAmtaglg-3Rn-7" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;27 улучшенный теплоотвод&lt;br&gt;железо 18,5 x 27 = 499,5&lt;br&gt;олово 4 x 27 = 108&lt;br&gt;медь 16 x 27 = 432&lt;br&gt;алмаз 1 x 27 = 27&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;glass=0;sketch=0;shadow=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="620" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
